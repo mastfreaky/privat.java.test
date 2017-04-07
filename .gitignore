@@ -1,0 +1,6 @@
+/server/.idea
+/client/.idea
+/.idea
+/server/out
+/client/out
+/server/database.json
